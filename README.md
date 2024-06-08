@@ -1,5 +1,5 @@
 # Rails Kanban Challenge
-A group of programmers in a Discord server have been challenged to make a Kanban application in Rails in 3 days.
+A group of programmers in a Discord server have been challenged to individually make a Kanban application in Rails in 3 days.
 
 ## Rules
 1. Must be built with Ruby on Rails.
